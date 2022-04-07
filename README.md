@@ -4,7 +4,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: https://github.com/livinglifemeaning/Advice-Generator-App/ 
+- Solution URL: https://github.com/livinglifemeaning/Advice-Generator-App/tree/master
 - Live Site URL: https://livinglifemeaning.github.io/Advice-Generator-App/ 
 
 
@@ -18,5 +18,5 @@ Time to Complete: 3hrs 30m
 
 I learned so much building this app. I got stuck in displaying data but solved it when I moved the fetch request into useEffect() itself. I'm super happy! My very first project using React, and first junior project on frontendmentor complete! 
 
-Resource for learning how to deploy project to GitHub Pages: https://github.com/gitname/react-gh-pages; 
+Resource for learning how to deploy project to GitHub Pages: https://github.com/gitname/react-gh-pages.
  
